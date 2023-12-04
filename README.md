@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ajaxclopidia
-- 👀 I’m interested in ... Machine learning and ethical hacking
-- 🌱 I’m currently learning ... Machine learning and ethical hacking
-- 💞️ I’m looking to collaborate on ... Any machine learning project and ethical hacking project
+- 👀 I’m interested in ... Machine learning and data science
+- 🌱 I’m currently learning ... Machine learning and Artificial Intelligent
+- 💞️ I’m looking to collaborate on ... Any machine learning project and Deeplearning project
 - 📫 How to reach me ... ajaxclopidia77@gmail.com
 
 <!---
